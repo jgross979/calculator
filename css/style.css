@@ -1,0 +1,30 @@
+h1{
+  text-align: center
+}
+form{
+  width: 100%;
+  margin: auto;
+  max-width: 300px;
+  min-width: 300px;
+}
+#calculator {
+  text-align: center;
+  background: green;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+}
+
+.keys, .compute, .clear{
+  background: blue;
+  color: white;
+  height: 40px;
+  width: 40px;
+}
+
+#display {
+  width: 200px;
+  height: 25px;
+  margin-bottom: 10px;
+}
